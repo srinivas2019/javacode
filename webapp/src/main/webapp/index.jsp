@@ -1,4 +1,4 @@
-<h1> ############### WELCOME TO  BIDAT SCIENCE TECHNOLOGIES ############### </h1>
+<h1> ############### WELCOME TO  BIGDAT & DATA SCIENCE & IOT TECHNOLOGIES ############### </h1>
 
 we are providing following courese....
 hadoop
