@@ -1,8 +1,5 @@
-<h1> ############### WELCOME TO datascience ############### </h1>
+<html>
 
-we are providing following courese....
-hadoop
-datascience 
-AI 
-ML
+<h1 style="color:red;"> ############### WELCOME TO datascience ############### </h1>
 
+</html>
