@@ -1,5 +1,5 @@
 <html>
 
-<h1 style="color:white;background-color:blue;"> ############### WELCOME TO ANSIBL-AUTOMATION ############### </h1>
+<h1 style="color:white;background-color:darkblue;"> ############### WELCOME TO ANSIBL-AUTOMATION ############### </h1>
 
 </html>
